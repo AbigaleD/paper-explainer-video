@@ -1,0 +1,23 @@
+{
+  "name": "paper-explainer-video-skills",
+  "owner": {
+    "name": "Zixin Dong",
+    "email": "88241699+AbigaleD@users.noreply.github.com"
+  },
+  "metadata": {
+    "description": "Turn a research paper into a short narrated explainer video (Chinese or English) with Manim, edge-tts, BGM, and a Live2D host",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "paper-explainer-video",
+      "description": "Paper explainer video skills for Claude Code: Chinese (paper-explainer-video) and English (paper-explainer-video-en)",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/paper-explainer-video",
+        "./skills/paper-explainer-video-en"
+      ]
+    }
+  ]
+}
