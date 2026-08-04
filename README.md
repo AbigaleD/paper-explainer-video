@@ -12,6 +12,14 @@ paper PDF  →  Manim per-scene animation (1080p60)
 
 This repository is a [Claude Code skill](https://support.claude.com/en/articles/12512198-creating-custom-skills) that drives the whole pipeline. You only rewrite 3 small files per paper; the generic rendering scripts are included.
 
+## Demo
+
+The 1m53s promo below was produced **end-to-end by this skill itself** — paper-style 7-scene structure, Manim animation, edge-tts voiceover, synthesized BGM, and the Live2D host `llny` composited in the corner:
+
+![Paper Explainer demo](demo/demo.gif)
+
+▶ **[Watch the full 1080p60 video](demo/promo.mp4)** (7 MB, h264+aac)
+
 ## Two skills
 
 | Skill | Language | Description |
@@ -66,6 +74,7 @@ Typical end-to-end time for a paper of similar difficulty: **~22–28 min** (pub
 ## Repository layout
 
 ```
+├── demo/                          # self-made demo (animated gif + full mp4)
 ├── skills/
 │   ├── paper-explainer-video/     # Chinese pipeline skill
 │   │   ├── SKILL.md               # instructions Claude follows
