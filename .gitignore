@@ -6,3 +6,4 @@ media/
 *.mp4
 *.wav
 *.mov
+!demo/*.mp4
