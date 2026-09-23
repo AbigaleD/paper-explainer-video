@@ -18,8 +18,9 @@ The 1m53s promo below was produced **end-to-end by this skill itself** — paper
 
 ![Paper Explainer demo](demo/demo.gif)
 
-▶ **[Watch the full 1080p60 video](demo/promo.mp4)** (7 MB, h264+aac)
+▶ **[Watch the full 1080p60 video demo on bilibili :KimiK3](https://www.bilibili.com/video/BV1qdaF62ESd)
 
+▶ **[Watch the full 1080p60 video demo on bilibili :Adam optimizer](https://www.bilibili.com/video/BV1BRaF67Ewx/)
 ## Two skills
 
 | Skill | Language | Description |
